@@ -1,0 +1,4 @@
+ala
+bala
+new line
+END
